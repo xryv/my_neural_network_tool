@@ -1,0 +1,16 @@
+# File: requirements.txt
+
+# Core Libraries
+tensorflow==2.5.0
+numpy==1.20.3
+pandas==1.2.4
+scikit-learn==0.24.2
+Flask==2.0.1
+
+# Visualization Libraries
+matplotlib==3.4.2
+seaborn==0.11.1
+
+# Miscellaneous Libraries
+argparse==1.4.0
+urllib3==1.26.5
